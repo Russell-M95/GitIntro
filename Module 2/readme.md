@@ -1,0 +1,1 @@
+This component is designed to introduce concepts for module 2
